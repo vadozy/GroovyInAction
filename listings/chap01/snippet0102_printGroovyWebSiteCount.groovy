@@ -2,7 +2,7 @@ import static groovyx.gpars.GParsPool.withPool
 
 def urls = [
         'http://www.groovy-lang.org',
-        'http://gpars.codehaus.org',
+        'https://grails.org/',
         'http://gr8conf.org/'
 ]*.toURL()
 
